@@ -1,0 +1,3 @@
+#!/bin/bash
+exec env python3 -m splash "$@"
+
